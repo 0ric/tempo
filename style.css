@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(41, 38, 255);
+}
+.textos{
+    color: lightcyan;
+}
+#imagem{
+    width: 100%;
+    height: 650px;
+}
